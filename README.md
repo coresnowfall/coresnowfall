@@ -7,7 +7,7 @@
 I am a webdev/student learning my way through **react, html, css, javascript, python, and much more**.
 
 I make websites for friends on the side for money, but also as a way to learn on the job. 
-I am in highschool! I have applied to university.
+I am in highschool! I have been accepted into my co-op comp sci program of choice.
 I know basic object oriented programming, java swing, and databasing.
 
 I enjoy dancing games like Dance Dance Revolution and In The Groove.
